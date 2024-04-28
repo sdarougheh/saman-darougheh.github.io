@@ -1,0 +1,31 @@
+
+
+    title: Publications
+    papers:
+      - title: Occupation-industry mismatch in the cross-section and the aggregate
+        linkname:  accepted JPE Macro
+        link: https://sdaro.s3.eu-central-1.amazonaws.com/public/occupations/draft_occupations.pdf
+        links:
+          - desc: slides
+            url: https://sdaro.s3.eu-central-1.amazonaws.com/public/occupations/presentation_occupations.pdf
+          
+        images: 
+          - link: tasks_none.jpg
+
+          
+
+        
+        summary: |
+            Recessions that generate more mismatch do not inherently generate more unemployment. I show this modelling "broad" 
+            occupations -- that are employable in many industries, and thus less at the risk of mismatch. The model also suggests 
+            the average broadness of the unemployed as a useful measure of mismatch.
+      - title: "Dispersed consumption versus compressed output: assessing the sectoral effects of a pandemic"
+        link: https://www.sciencedirect.com/science/article/abs/pii/S016407042100015X
+        linkname: Journal of Macroeconomics
+
+        images:
+          - link: consumption.png
+        summary: |
+            Credit-card transaction data are popular when sharp economic changes need to be monitored in real time. 
+            Yet, because of input-output linkages, sectoral output responses are very different from what the sectoral consumption data implies.
+            

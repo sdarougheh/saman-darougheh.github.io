@@ -1,0 +1,59 @@
+
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>    {{ publications.title }}
+          </h2>
+        </header>
+
+
+
+
+  {% for publication in publications.papers %}
+  <div class="item">
+      <h4>{{ publication.title }}{% if publication.linkname %}
+          (<a href="{{ publication.link }}">{{ publication.linkname }}</a>){% endif %}</h4>
+      
+{% if publication.conference or publication.authors or publication.links %}	
+    <span class="publication-row">
+{% endif %}
+
+      
+    {% if publication.authors %}
+    <span class="publication-authors">
+- with {{ publication.authors }} &bull;
+    </span>
+   {% endif %}
+        {% if publication.links %}
+         <span class="publication-links">
+	    {% for link in publication.links %}
+		{% if link.url %}
+	      <a href="{{ link.url }}">{{ link.desc }}</a> &bull;
+	    {% else %}
+	      {{ link.desc }} &bull;
+	        {% endif %}
+	{% endfor %}
+	</span>
+	{% endif %}
+
+{% if publication.conference %}	
+<span class=publication-conference>
+{{ publication.conference }}
+</span>
+{% endif %}
+{% if publication.conference or publication.authors or publication.links %}	
+    </span>
+{% endif %}
+
+    {% if publication.images %}
+    {% for image in publication.images %}
+    <img src="images/{{image.link}}" id="pub_img">
+    {% endfor %}
+    {% endif %}
+    <p class=publication-summary>{{ publication.summary }} </p>
+
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+

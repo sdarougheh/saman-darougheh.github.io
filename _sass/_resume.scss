@@ -3,6 +3,9 @@
 
 // util
 
+
+
+
 .section-header {
   @include section_border;
   margin-bottom: 1.5rem;
@@ -89,10 +92,21 @@
     border-top: none;
     padding-top: 0;
   }
+  
 
   .icon-link-item {
     display: inline-block;
     margin-left: 5px;
+        a {
+      color: #333;
+      text-decoration: none;
+      border-bottom: 1px solid;
+
+      &:hover {
+        border-bottom: none;
+        color: #9c9c9c;
+      }
+    }
   }
 
   .icon-link { display: inline-block;
@@ -108,26 +122,20 @@
   }
 }
 
-.contact-button {
-  @include border-radius(3px);
-  background-color: #efefef;
-  text-decoration: none;
-  text-align: center;
-  display: block;
-  margin: 1.5rem auto;
-  width: 220px;
-  font-size: 1.375rem;
-  @include sans_light;
-  color: #333;
-  line-height: 55px;
-  @include transition(all .2s ease);
+.cv {
 
-  &:hover {
-    background-color: #333;
-    color: #fff;
+  .indent {
+       margin-left:10px;
+      font-size: small;
   }
 
-  &.not-looking { width: 400px; }
+  .empty-list {
+    list-style: none;
+   margin-left: 0;
+   padding-left: 1em;
+   text-indent: -1em;
+  }
+
 }
 
 // resume content styles
@@ -135,6 +143,13 @@
 .content-section {
   margin: 0 0 3rem;
 
+   a {
+   text-decoration: none; 
+   color: #0070FF;
+   }
+   a:hover {
+font-weight: bold;
+}
   .resume-item { margin-bottom: 2rem; }
 
   .resume-item-title {
@@ -150,9 +165,7 @@
     margin: 0 0 .75rem;
     line-height: 1;
 
-    &.award-title {
-      font-size: 1rem;
-    }
+
   }
 
   .resume-item-title,
@@ -170,6 +183,34 @@
       }
     }
   }
+  .item h4 {
+    margin-bottom: 0px;
+      line-height: 120%;
+    }
+  .publication-row {
+  margin-top: 0px;
+  padding-top: 0px;
+  line-height: 80%;
+  }
+  .publication-conference {
+       font-family: cursive;
+       font-size: x-small;
+         line-height: 80%;
+  }
+  .publication-summary {
+      font-size: small;
+        line-height: 130%;
+    margin-top:0;
+  }
+  .publication-authors{
+  font-size: small;
+    line-height: 80%;
+  }
+  .publication-links {
+    font-size: small;
+    line-height: 80%;
+  }
+
 
   .resume-item-copy { margin: .75rem 0 0; }
 }
@@ -193,6 +234,9 @@
     }
   }
 }
+
+
+
 
 .print-only { display: none !important }
 
@@ -231,4 +275,21 @@
       }
     }
   }
+}
+
+
+    #pub_img:hover {
+    -webkit-transform: scale(4);
+    -moz-transform: scale(4);
+    -o-transform: scale(4);
+    transform: scale(4);
+}
+#pub_img {
+  border: 1px solid #555;
+    float:right;
+    width:80px;
+	-webkit-transition: all .4s ease-in-out;
+	-moz-transition: all .4s ease-in-out;
+	-o-transition: all .4s ease-in-out;
+	-ms-transition: all .4s ease-in-out;
 }

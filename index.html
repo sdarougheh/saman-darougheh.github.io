@@ -1,3 +1,19 @@
 ---
 layout: resume
 ---
+
+
+
+      {% assign publications = site.data.publications %}
+      {% include publications_meat.html %}
+      
+            {% assign publications = site.data.workingpapers %}
+      {% include publications_meat.html %}
+      
+            {% assign publications = site.data.workinprogress %}
+      {% include publications_meat.html %}
+
+            {% assign publications = site.data.policy %}
+      {% include publications_meat.html %}
+
+      

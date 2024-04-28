@@ -1,0 +1,75 @@
+
+Person:
+  - Nationality: German, Iranian
+
+Appointments:
+  - title: Research economist
+    time: 2019-2024
+    place: Danmarks Nationalbank 
+
+Education:
+  - what: Phd in Economics
+    where: IIES, Stockholm University
+    when: 2019
+    thesis: Search and mismatch
+  - what: Visiting Graduate Student
+    where: Princeton University
+    when: 2014-2015
+  - what: Master degree in specialized economic analysis
+    where: Barcelona Graduate School of Economics
+    when: 2012
+    thesis: "Costly Signals and Conditional Aid: An RBC Model with Bailouts and Default"
+  - what: Bachelor of Science
+    where: University of Cologne
+    when: 2011
+    thesis: The Empirical Relationship between Inequality and Growth
+     
+
+
+Presentations:
+  - year: 2024
+    where: SED*, Bundesbank Spring Conference, 
+  - year: 2023
+    where: Dale Mortensen Conference, EALE*, PEJ*, Bank of Finland*
+  - year: 2022
+    where: "IAB workshop on “Short-time work in economic crises”, Annual Meeting of the Austrian
+Economic Association"
+  - year: 2021
+    where: Annual congress of the IIPF
+  - year: 2020
+    where: Nordic Junior Macro
+  - year: 2019
+    where: "Danmarks Nationalbank, Copenhagen University, Cologne University, EEA Manchester,
+University of Barcelona, Workshop on “Mismatch, Matching and the Allocation of Workers to Jobs”, 3rd. Dale T. Mortensen Conference"
+  - year: 2018
+    where: Sequence on Labor Macro, Sharif University of Technology
+  - year: 2017
+    where: SUDSWEC; Sharif University of Technology 
+  - year: 2016
+    where: Oslo-BI-NHH Workshop in Macroeconomics, SUDSWEC
+  - year: 2015
+    where: Princeton University macro lunch
+
+
+Referee:
+  - where: Review of Economic Studies, Scandinavian journal of Economics, Macroeconomic Dynamics, Journal of Macroeconomics, Journal for labor market research, Labour Economics
+
+Discussions:
+  - year: 2024
+    where: EES workshop Bonn
+  - year: 2020
+    where: ENTER Jamboree, 13th Nordic Summer Symposium in Macroeconomics
+
+
+Grants:
+  - year: 2016
+    what: Mannerfelt Foundation, Research grant
+  - year: 2013
+    what: Hedelius’ stipend for international doctoral education, Jan Wallanders and Tom Hedelius Foundation, 70.000 USD
+    
+    
+Teaching: 
+  - year: 2013
+    what: International Economics (BA), TA for Paul Segerstrom
+  - year: 2013
+    what: Macroeconomics I (PhD), TA for Per Krusell

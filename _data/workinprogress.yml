@@ -1,0 +1,47 @@
+
+
+
+    title: Work in progress
+
+
+    papers:
+      - title: "Learning from Mistakes: Occupation Miscoding and Task Distance "
+        authors: Carrillo-Tudela and Ludo Visschers
+        links:
+          - desc: draft coming soon!
+        images:
+
+        conference: (presented at EALE 2023)
+        summary: |
+          US surveys on occupations contain a lot of mistakes. We estimate these mistakes, provide a way to fix them, and learn about distances between occupations (closely-related occupations are more likely to be mistaken).
+
+
+      - title: "What determines unemployment: low productivity or high outside options?"
+        links: 
+          -  desc:
+        images: 
+          - link: abg.png
+        conference: (presented at the 5th Dale T. Mortensen Conference)
+        summary: |
+            15% of Danes ("marginal workers") make up two thirds of unemployment. Are they less productive, or do they have better outside options (=enjoy unemployment more)? I answer this using both administrative records and a model calibration.
+
+
+      - title: "A supply-Side approach to manage inflation"
+        authors: Renato Faccini and Leonardo Melosi
+        links:
+        images:
+        conference: (Bank of Finland, Bundesbank Spring conference 2024)
+        summary: |
+            Job-to-job transitions drive wage inflation. Therefore, fiscal policy that disincentivizes on-the-job search can lower inflation without rising unemployment. We show that such fiscal policies have bite using changes in the Danish income tax brackets.   
+
+
+
+
+      - title: "Non-homothetic preferences and relative price shocks"
+        authors: Tiago da Silva Bernardino, Pedro Brinca, and Marcia Silva-Pereira
+        images:
+        conference: (presented at PEJ 2023)
+        summary: |
+            In the aftermath of the pandemic, many countries subsidized prices of essential goods via lower VAT, arguing that subsidizing essential goods is an effective way to support low-income households. Is it? We answer this question taking seriously both non-homothetic preferences and an imperfect pass through of VAT.
+
+

@@ -1,0 +1,20 @@
+
+    title: Working papers
+
+    papers:
+      - title: Worker protection and screening
+        authors: Gustaf Lundgren
+        links: 
+          - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/protection_screening/draft_screening.pdf
+            desc: draft
+        
+          
+        images: 
+
+
+         
+        
+        summary: |
+            Workers differ ex-ante in their ability to find a good match. Firm can either learn match quality during hiring, or on the job. A worker protection policy that makes layoffs more difficult makes hiring more risky. The model features a screening externality: the more firms screen, the worse the applicant pool, the more important screening.
+
+
