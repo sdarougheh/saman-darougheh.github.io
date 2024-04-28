@@ -283,7 +283,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  github-pages
+  github-pages (~> 231)
   jekyll-pdf!
   webrick (~> 1.8)
 
