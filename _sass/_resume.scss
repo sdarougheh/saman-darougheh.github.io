@@ -292,4 +292,27 @@ font-weight: bold;
 	-moz-transition: all .4s ease-in-out;
 	-o-transition: all .4s ease-in-out;
 	-ms-transition: all .4s ease-in-out;
+
+}
+
+figure {
+      display:table;
+    border: 1px solid red;
+   width: 80px;
+
+}
+
+figure img{
+  width:100%;
+  margin: 0px;
+  padding: 0px;
+    vertical-align: middle;
+
+}
+
+figure figcaption {
+  border-top: 0.1px solid gray;
+    background-color: #ffffff;
+    font-size: 0.2em;
+  text-align: justify;
 }

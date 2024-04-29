@@ -47,7 +47,9 @@
 
     {% if publication.images %}
     {% for image in publication.images %}
-    <img src="images/{{image.link}}" id="pub_img">
+    <figure id="pub_img"><img src="images/{{image.link}}" >
+        {% if image.caption %}<figcaption>{{image.caption}}</figcaption>{% endif %}
+        </figure>
     {% endfor %}
     {% endif %}
     <p class=publication-summary>{{ publication.summary }} </p>

@@ -11,7 +11,7 @@
           
         images: 
           - link: tasks_none.jpg
-
+            caption: "The construction sector is host to both specialized and broad occupations: a shock to this sector will affect these occupations differentially."
           
 
         
@@ -25,6 +25,7 @@
 
         images:
           - link: consumption.png
+            caption: Consumption responses during the covid lockdown were much larger than the actual reduction in sectoral output (notice scale).
         summary: |
             Credit-card transaction data are popular when sharp economic changes need to be monitored in real time. 
             Yet, because of input-output linkages, sectoral output responses are very different from what the sectoral consumption data implies.
