@@ -2,8 +2,8 @@
 layout: resume
 title: Broadness
 ---
-# Broadness
-<h3> Broadness</h3>
+# Broadness summary and data
+<h3> Occupational broadness</h3>
 <img src="/images/tasks_none.jpg" style="float:right; width:40%">
 <p>We know from various studies that more human capital is occupation specific than industry specific. 
 In <i>Occupation-industry mismatch in the cross-section and the aggregate</i>, I define an occupation's broadness by how many industries it is employable in.

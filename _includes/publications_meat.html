@@ -13,7 +13,15 @@
   <div class="item">
       <h4>{{ publication.title }}{% if publication.linkname %}
           (<a href="{{ publication.link }}">{{ publication.linkname }}</a>){% endif %}</h4>
-      
+
+          {% if publication.images %}
+    {% for image in publication.images %}
+    <figure id="pub_img"><img src="images/{{image.link}}" >
+        {% if image.caption %}<figcaption><div>{{image.caption}}</div></figcaption>{% endif %}
+        </figure>
+    {% endfor %}
+    {% endif %}
+
 {% if publication.conference or publication.authors or publication.links %}	
     <span class="publication-row">
 {% endif %}
@@ -45,13 +53,7 @@
     </span>
 {% endif %}
 
-    {% if publication.images %}
-    {% for image in publication.images %}
-    <figure id="pub_img"><img src="images/{{image.link}}" >
-        {% if image.caption %}<figcaption>{{image.caption}}</figcaption>{% endif %}
-        </figure>
-    {% endfor %}
-    {% endif %}
+
     <p class=publication-summary>{{ publication.summary }} </p>
 
   </div><!--//item-->
