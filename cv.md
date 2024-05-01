@@ -3,13 +3,13 @@ layout: resume
 title: CV
 ---
 
-{{ page.pdf_url }}
-<a href="{{ page.pdf_url }}">download pdf</a>
 
 <div class="cv">
         <header class="section-header">
-          <h2>    CV</h2>
+          <h3>    CV</h3>
         </header>
+
+
 
 <h3>Appointments</h3>
 
