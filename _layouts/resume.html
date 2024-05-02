@@ -5,11 +5,10 @@
 
   <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}">
 
-    <div class="wrapper" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="telephone" content="{{ site.resume_contact_telephone }}"/>
-      <meta itemprop="address" content="{{ site.resume_contact_address }}"/>
+    <div class="wrapper">
 
-      <header class="page-header">
+
+      <header class="page-header" style="border: 1px red;">
 
 
         <!-- Your name is defined in the _config.yml file -->
@@ -28,14 +27,23 @@
 
         {% if page.url == "/" %}
         <div class="executive-summary" itemprop="description">
-          <img src="/images/profile.jpg" style="float:right; height:150px"/>
-          <p>I am a research economist at the Danish central bank - Danmarks Nationalbank.
-            I study labor markets and the macroeconomy using both administrative records and quantitative models.</p>
-          <p>
-            Contact: <i>sdma at nationalbanken.dk</i>. <br>
-            This is my personal website and does not represent the views of Danmarks Nationalbank.
+          <img src="/images/profile.jpg" style="float:right; height:150px; padding: 10px"/>
+          <p style="text-align: justify">I am a research economist at the Danish central bank - Danmarks Nationalbank.
+            I study labor markets and the macroeconomy using both administrative records and quantitative models.
+              </br>Contact: <i>sdma at nationalbanken.dk</i></p>
+
           </p>
         </div>
+
+        <h3>Upcoming presentations</h3>
+<ul class="empty-list">
+{% for presentation in site.data.upcoming %}
+<li>{{ presentation.date }}: {{ presentation.name}}</li>
+{% endfor %}
+</ul>
+        <span style="font-size: xx-small"><em>This is my personal website and does not represent the views of Danmarks Nationalbank. *: presented by co author.</em></span>
+
+
         {% endif %}
 
       </header>
