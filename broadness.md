@@ -3,6 +3,9 @@ layout: resume
 title: Broadness
 ---
 # Broadness summary and data
+
+
+<section class="content-section">
 <h3> Occupational broadness</h3>
 <img src="/images/tasks_none.jpg" style="float:right; width:40%">
 <p>We know from various studies that more human capital is occupation specific than industry specific. 
@@ -28,7 +31,7 @@ Note that it is much lower during the Great Recession than during previous reces
 
 <h4>Data</h4>
 
-This zip file (<b>Data not yet done</b>) contains four data series describing the broadness of each occupation in the United States. The occupation code is "occ1990", a long-run time consistent variable provided by IPUMS.
+<a href="https://sdaro.s3.eu-central-1.amazonaws.com/public/occupations/broadness.zip">This zip file</a>  contains four data series describing the broadness of each occupation in the United States. The occupation code is "occ1990", a long-run time consistent variable provided by IPUMS.
 
 <ul>
 <li>3 digit industries and higher aggregation of industries</li>
@@ -36,7 +39,7 @@ This zip file (<b>Data not yet done</b>) contains four data series describing th
 </ul>
 
 
-
+</section>
 
 
 
