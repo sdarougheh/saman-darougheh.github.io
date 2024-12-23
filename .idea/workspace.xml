@@ -6,11 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b3093189-b4fc-41dc-9ef9-0c52b5ad8bde" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/publications.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/publications.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/upcoming.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/upcoming.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/cv.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/cv.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/workingpapers.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/workingpapers.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/workinprogress.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/workinprogress.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_resume.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_resume.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_vendor/bundle/ruby/3.0.0/bundler/gems/jekyll-pdf-4faa62d421f7/jekyll-pdf.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/_vendor/bundle/ruby/3.0.0/bundler/gems/jekyll-pdf-4faa62d421f7/jekyll-pdf.gemspec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_vendor/bundle/ruby/3.2.0/bundler/gems/jekyll-pdf-4faa62d421f7/jekyll-pdf.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/_vendor/bundle/ruby/3.2.0/bundler/gems/jekyll-pdf-4faa62d421f7/jekyll-pdf.gemspec" afterDir="false" />
     </list>
@@ -192,7 +190,7 @@
       <workItem from="1715926984008" duration="3142000" />
       <workItem from="1716019100947" duration="30000" />
       <workItem from="1716277990859" duration="1218000" />
-      <workItem from="1734944593627" duration="1737000" />
+      <workItem from="1734944593627" duration="3119000" />
     </task>
     <servers />
   </component>
