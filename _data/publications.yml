@@ -3,12 +3,10 @@
     title: Publications
     papers:
       - title: Occupation-industry mismatch in the cross-section and the aggregate
-        linkname:  accepted JPE Macro
-        link: https://sdaro.s3.eu-central-1.amazonaws.com/public/occupations/draft_occupations.pdf
-        links:
-          - desc: slides
-            url: https://sdaro.s3.eu-central-1.amazonaws.com/public/occupations/presentation_occupations.pdf
-          
+        linkname:  JPE Macro, 2024
+        link: https://www.journals.uchicago.edu/doi/10.1086/731536
+
+
         images: 
           - link: tasks_none.jpg
             caption: "The construction sector is host to both specialized and broad occupations: a shock to this sector will affect these occupations differentially."
