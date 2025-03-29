@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3093189-b4fc-41dc-9ef9-0c52b5ad8bde" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/miscoding.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/cv.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/cv.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/workingpapers.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/workingpapers.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/workinprogress.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/workinprogress.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/projects.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_vendor/bundle/ruby/3.0.0/bundler/gems/jekyll-pdf-4faa62d421f7/jekyll-pdf.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/_vendor/bundle/ruby/3.0.0/bundler/gems/jekyll-pdf-4faa62d421f7/jekyll-pdf.gemspec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_vendor/bundle/ruby/3.2.0/bundler/gems/jekyll-pdf-4faa62d421f7/jekyll-pdf.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/_vendor/bundle/ruby/3.2.0/bundler/gems/jekyll-pdf-4faa62d421f7/jekyll-pdf.gemspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/cv.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/saman/Dropbox/public/site/resume-template/_site/images",
+    "last_opened_file_path": "/home/saman/Dropbox/public/site/resume-template",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -44,8 +44,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_site/images" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/_site/images" />
     </key>
   </component>
   <component name="RunManager">
@@ -171,8 +171,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.180" />
-        <option value="bundled-python-sdk-85c76a3b01b3-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.180" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
       </set>
     </attachedChunks>
   </component>
@@ -190,7 +190,12 @@
       <workItem from="1715926984008" duration="3142000" />
       <workItem from="1716019100947" duration="30000" />
       <workItem from="1716277990859" duration="1218000" />
-      <workItem from="1734944593627" duration="3119000" />
+      <workItem from="1734944593627" duration="5752000" />
+      <workItem from="1736494822469" duration="599000" />
+      <workItem from="1737652697624" duration="599000" />
+      <workItem from="1737701889472" duration="641000" />
+      <workItem from="1737715637111" duration="599000" />
+      <workItem from="1743234195924" duration="1628000" />
     </task>
     <servers />
   </component>

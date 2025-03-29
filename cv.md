@@ -35,6 +35,7 @@ title: CV
   {% for publication in site.data.publications.papers %}
   <li>{{publication.title}} {% if publication.authors %} (with {{publication.authors}}){% endif %}</li>
   {% endfor %}
+
 </ul>
   
   
@@ -42,8 +43,9 @@ title: CV
   <ul>
   {% for publication in site.data.workingpapers.papers %}
     <li>{{publication.title}}  {% if publication.authors %} (with {{publication.authors}} ){% endif %}</li>
-</ul>
   {% endfor %}
+</ul>
+
   
   
 
