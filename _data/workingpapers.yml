@@ -13,34 +13,41 @@
         summary: |
           Job-to-job transitions are (wage) inflationary and decrease vacancy posting, thereby challenging the traditional view on the relationship between inflation and unemployment. The model explains the effects of the 2012 Danish reform on employment transitions and wage growth.
 
-      - title: "Income-specific consumption baskets and the recent evolution of real wages and real income"
-        authors: <a href="https://www.marciasilvapereira.com/">Márcia Silva Pereira</a>
+      - title: "Getting Real About Wages: A Nonhomothetic Wage Deflator"
+        authors: <a href="https://phhoc.github.io/">Philipp Hochmuth</a>, <a href="https://www.marciasilvapereira.com/">Márcia Silva Pereira</a>, <a href="https://www.markuspettersson.net/">Markus Pettersson</a>
         links:
           - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/real_wages/draft.pdf
             desc: draft
-        images:
-          - link: real_wages.png
-            caption: "United States real wages have converged in recent years."
-
-
 
         conference:
         summary: |
-          We compute income-specific price indices to deflate nominal incomes and wages in the United States. We study the evolution of real wages and real family income since 2020. We find a convergence of real wages, but a divergence of real income.
+          Conventional real wages—nominal wages divided by a consumption deflator—are biased from a welfare perspective when households value leisure and exhibit nonhomothetic consumption behavior. We derive a true wage deflator and show that standard measures underestimate real wage growth and welfare growth between 1984 and 2019. Our deflator leads to similar conclusions as the conventional CPI deflator when studying the evolution of wages during the post-Covid inflation surge.
 
+      - title: "Confused about Careers? Untangling Occupational Mobility, Miscoding and Distance"
+        authors: <a href="https://sites.google.com/site/carloscarrillotudela/">Carlos Carrillo-Tudela</a> and <a href="https://sites.google.com/site/ludosresearch/">Ludo Visschers</a>
+        links:
+          - url: https://cepr.org/publications/dp20217
+            desc: CEPR discussion paper
+        images:
 
-      - title: Worker protection and screening
-        authors: Gustaf Lundgren
-        links: 
-          - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/protection_screening/draft_screening.pdf
-            desc: draft
-
-        images: 
-
-
-         
-        
+        conference: EALE 2023, World Labor Congress 2025
         summary: |
-            Workers differ ex-ante in their ability to find a good match. Firm can either learn match quality during hiring, or on the job. A worker protection policy that makes layoffs more difficult makes hiring more risky. The model features a screening externality: the more firms screen, the worse the applicant pool, the more important screening.
+          US surveys on occupations contain a lot of mistakes. We estimate these mistakes and show that they not only lead to false estimate of whether an occupational change occurred, but also how far it was.  Miscoding can also be informative about occupational distance itself, since closely-related occupations are more likely to be miscoded into each other.
+
+
+
+      - title: "Why are marginal workers unemployed: low productivity or high outside options?"
+        links:
+          - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/marginal/draft_marginal_workers.pdf
+            desc: draft
+        images:
+          - link: abg.png
+            caption: Marginal workers are a small share of the Danish labor force. Yet, due to their large average unemployment rate, they make up a large share of total unemployment.
+        conference: 5th Dale T. Mortensen Conference, SED 2024
+        summary: |
+            15% of Danes ("marginal workers") make up two thirds of unemployment. Are they less productive, or do they have better outside options (=enjoy unemployment more)? I answer this using both administrative records and a model calibration.
+
+
+
 
 

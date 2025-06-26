@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3093189-b4fc-41dc-9ef9-0c52b5ad8bde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/miscoding.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/projects.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/cv.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/cv.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/upcoming.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/upcoming.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/workingpapers.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/workingpapers.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/workinprogress.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/workinprogress.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/icon-links.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/icon-links.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_vendor/bundle/ruby/3.0.0/bundler/gems/jekyll-pdf-4faa62d421f7/jekyll-pdf.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/_vendor/bundle/ruby/3.0.0/bundler/gems/jekyll-pdf-4faa62d421f7/jekyll-pdf.gemspec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_vendor/bundle/ruby/3.2.0/bundler/gems/jekyll-pdf-4faa62d421f7/jekyll-pdf.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/_vendor/bundle/ruby/3.2.0/bundler/gems/jekyll-pdf-4faa62d421f7/jekyll-pdf.gemspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/cv.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +35,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "/home/saman/Dropbox/public/site/resume-template",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -171,8 +174,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
-        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PY-251.26094.141" />
+        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
       </set>
     </attachedChunks>
   </component>
@@ -195,7 +198,8 @@
       <workItem from="1737652697624" duration="599000" />
       <workItem from="1737701889472" duration="641000" />
       <workItem from="1737715637111" duration="599000" />
-      <workItem from="1743234195924" duration="1628000" />
+      <workItem from="1743234195924" duration="4079000" />
+      <workItem from="1750932490434" duration="4423000" />
     </task>
     <servers />
   </component>

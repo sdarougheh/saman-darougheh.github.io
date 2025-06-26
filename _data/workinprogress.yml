@@ -5,30 +5,14 @@
 
 
     papers:
-      - title: "Learning from Mistakes: Occupation Miscoding and Task Distance "
+
+      - title: "Danish Flexicurity and Occupational Mobility: A Comparison with the United States"
         authors: <a href="https://sites.google.com/site/carloscarrillotudela/">Carlos Carrillo-Tudela</a> and <a href="https://sites.google.com/site/ludosresearch/">Ludo Visschers</a>
+        summary: |
+            We compare Danish occupational mobility rates -- occupation by occupation -- to that in the United States, taking care of miscoding in the latter. We find significantly lower gross and net mobility in Denmark.
         links:
-          - desc: draft coming soon!
-        images:
-
-        conference: EALE 2023
-        summary: |
-          US surveys on occupations contain a lot of mistakes. We estimate these mistakes, provide a way to fix them, and learn about distances between occupations (closely-related occupations are more likely to be mistaken).
-
-
-      - title: "What determines unemployment: low productivity or high outside options?"
-        links: 
-          -  desc:
-        images: 
-          - link: abg.png
-            caption: Marginal workers are a small share of the Danish labor force. Yet, due to their large average unemployment rate, they make up a large share of total unemployment.
-        conference: 5th Dale T. Mortensen Conference, SED 2024
-        summary: |
-            15% of Danes ("marginal workers") make up two thirds of unemployment. Are they less productive, or do they have better outside options (=enjoy unemployment more)? I answer this using both administrative records and a model calibration.
-
-
-
-
+          - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/occupation_distance/draft_comparison_denmark.pdf
+            desc: draft
 
       - title: "Non-homothetic preferences and relative price shocks"
         authors: <a href="https://www.tiagobernardino.com/">Tiago Bernardino</a>, <a href="https://pedrobrinca.pt/">Pedro Brinca</a>, and <a href="https://www.marciasilvapereira.com/">Marcia Silva-Pereira</a>
@@ -36,5 +20,22 @@
         conference: PEJ 2023
         summary: |
             In the aftermath of the pandemic, many countries subsidized prices of essential goods via lower VAT, arguing that subsidizing essential goods is an effective way to support low-income households. Is it? We answer this question taking seriously both non-homothetic preferences and an imperfect pass through of VAT.
+
+      - title: "Better the Devil You Know: Women's Job Mobility and the Hidden Risks of Workplace Change"
+        authors: Alexander Dietrich
+        summary: |
+            We document: women care more about workplace-related amenities than men; these are less prevalent in male-dominated occupations; women's job mobility is lower in these occupations, and their job changes coincide with higher wage growth. We rationalize these findings with a job-ladder model in which social amenities are unobservable prior to accepting a job. 
+
+
+      - title: Worker protection and screening
+        authors: Gustaf Lundgren
+        links:
+          - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/protection_screening/draft_screening.pdf
+            desc: draft
+
+        images:
+
+        summary: |
+            Workers differ ex-ante in their ability to find a good match. Firm can either learn match quality during hiring, or on the job. A worker protection policy that makes layoffs more difficult makes hiring more risky. The model features a screening externality: the more firms screen, the worse the applicant pool, the more important screening.
 
 
