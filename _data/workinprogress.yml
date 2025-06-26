@@ -11,8 +11,8 @@
         summary: |
             We compare Danish occupational mobility rates -- occupation by occupation -- to that in the United States, taking care of miscoding in the latter. We find significantly lower gross and net mobility in Denmark.
         links:
-          - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/occupation_distance/draft_comparison_denmark.pdf
-            desc: draft
+          - url:
+            desc: draft coming soon
 
       - title: "Non-homothetic preferences and relative price shocks"
         authors: <a href="https://www.tiagobernardino.com/">Tiago Bernardino</a>, <a href="https://pedrobrinca.pt/">Pedro Brinca</a>, and <a href="https://www.marciasilvapereira.com/">Marcia Silva-Pereira</a>
