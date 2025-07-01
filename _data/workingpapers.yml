@@ -52,8 +52,10 @@
         authors: <a href="https://pedrobrinca.pt/">Pedro Brinca</a> and <a href="https://francescaloria.wixsite.com/francescaloria">Francesca Loria</a>
 
         links:
-          - https://sdaro.s3.eu-central-1.amazonaws.com/public/bca/business_cycle_accounting_draft.pdf
-          - desc: draft
+          - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/bca/business_cycle_accounting_draft.pdf
+            desc: draft
+          summary: |
+            Business cycle accounting suffers from two implementation issues that can severely bias conclusions. Log-linearization creates substantial measurement errors during large fluctuations, while variable-specific deflation violates the methodology’s theoretical foundations.
 
 
 
