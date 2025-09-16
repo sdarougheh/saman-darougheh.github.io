@@ -53,6 +53,8 @@
           - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/vat_market_countries/vat_market_countries.pdf
             desc: draft
         images:
+          - link: tasks_none.jpg
+            caption:           
         conference:
         summary: |
             The pass-through of value-added taxes depends on market concentration. European countries differ significantly in their average market concentration, which explains 16% of the cross-country differences in VAT pass-through.
