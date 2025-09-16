@@ -53,7 +53,7 @@
           - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/vat_market_countries/vat_market_countries.pdf
             desc: draft
         images:
-          - link: market_power_cross_country.png
+          - link: market_power_cross_country.jpg
             caption:
         conference:
         summary: |

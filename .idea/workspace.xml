@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3093189-b4fc-41dc-9ef9-0c52b5ad8bde" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/workingpapers.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/workingpapers.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_vendor/bundle/ruby/3.0.0/bundler/gems/jekyll-pdf-4faa62d421f7/jekyll-pdf.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/_vendor/bundle/ruby/3.0.0/bundler/gems/jekyll-pdf-4faa62d421f7/jekyll-pdf.gemspec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_vendor/bundle/ruby/3.2.0/bundler/gems/jekyll-pdf-4faa62d421f7/jekyll-pdf.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/_vendor/bundle/ruby/3.2.0/bundler/gems/jekyll-pdf-4faa62d421f7/jekyll-pdf.gemspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/market_power_cross_country.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +208,7 @@
       <workItem from="1752586300283" duration="1098000" />
       <workItem from="1752929674927" duration="599000" />
       <workItem from="1753799302954" duration="601000" />
-      <workItem from="1758009925905" duration="595000" />
+      <workItem from="1758009925905" duration="1007000" />
     </task>
     <servers />
   </component>
