@@ -36,7 +36,7 @@
 
 
 
-      - title: "Why are marginal workers unemployed: low productivity or high outside options?"
+      - title: "Why are marginal workers unemployed: low productivity or high outside options? (conditionally accepted, Labour Economics)"
         links:
           - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/marginal/draft_marginal_workers.pdf
             desc: draft
@@ -46,6 +46,16 @@
         conference: 5th Dale T. Mortensen Conference, SED 2024
         summary: |
             15% of Danes ("marginal workers") make up two thirds of unemployment. Are they less productive, or do they have better outside options (=enjoy unemployment more)? I answer this using both administrative records and a model calibration.
+
+      - title: "Why VAT Pass-Through Varies Across Countries: The Role of Market Power"
+        links:
+          - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/vat_market_countries/vat_market_countries.pdf
+            desc: draft
+        images:
+        conference:
+        summary: |
+            The pass-through of value-added taxes depends on market concentration. European countries differ significantly in their average market concentration, which explains 16% of the cross-country differences in VAT pass-through.
+
 
 
       - title: "Wedged Between Theory and Practice: Addressing Two Implementation Challenges in Business Cycle Accounting"
