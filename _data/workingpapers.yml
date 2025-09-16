@@ -54,7 +54,7 @@
             desc: draft
         images:
           - link: market_power_cross_country.jpg
-            caption:
+            caption: "The figure plots country-level average HHI (employment-weighted) against pass-through estimates. Circle size is inversely proportional to the variance of the first-stage estimate and thus reflects its precision. The estimated coefficient is -0.13 with a p-value of 0.089. The R2 is 0.16."
         conference:
         summary: |
             The pass-through of value-added taxes depends on market concentration. European countries differ significantly in their average market concentration, which explains 16% of the cross-country differences in VAT pass-through.
