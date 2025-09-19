@@ -14,6 +14,22 @@
           - url:
             desc: draft coming soon
 
+      - title: "Workplace Amenities and the Gender Wage Gap: Evidence from Denmark"
+        authors: <a href="https://sites.google.com/view/alexanderdietrich">Alexander Dietrich</a>, <a href="https://sites.google.com/view/jonna-olsson/">Jonna Olsson</a>
+        summary: |
+          We use a rich set of individual-level amenities to show how gender-differences in amenity selection (even within narrowly defined occupations) affect the gender-wage gap.
+        links:
+          - url:
+            desc: draft coming soon
+
+      - title: "Amenities within industries and occupations"
+        authors: <a href="https://sites.google.com/view/alexanderdietrich">Alexander Dietrich</a>, <a href="https://sites.google.com/view/jonna-olsson/">Jonna Olsson</a>
+        summary: |
+          We discuss how to extract amenities using a standardized work-environment survey and demonstrate cross-sectoral difference in amenity exposure.
+        links:
+          - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/amenities/amenities_descriptive.pdf
+            desc: note
+
       - title: "Non-homothetic preferences and relative price shocks"
         authors: <a href="https://www.tiagobernardino.com/">Tiago Bernardino</a>, <a href="https://pedrobrinca.pt/">Pedro Brinca</a>, and <a href="https://www.marciasilvapereira.com/">Marcia Silva-Pereira</a>
         images:
@@ -22,9 +38,10 @@
             In the aftermath of the pandemic, many countries subsidized prices of essential goods via lower VAT, arguing that subsidizing essential goods is an effective way to support low-income households. Is it? We answer this question taking seriously both non-homothetic preferences and an imperfect pass through of VAT.
 
       - title: "Better the Devil You Know: Women's Job Mobility and the Hidden Risks of Workplace Change"
-        authors: Alexander Dietrich
+        authors: <a href="https://sites.google.com/view/alexanderdietrich">Alexander Dietrich</a>
         summary: |
             We document: women care more about workplace-related amenities than men; these are less prevalent in male-dominated occupations; women's job mobility is lower in these occupations, and their job changes coincide with higher wage growth. We rationalize these findings with a job-ladder model in which social amenities are unobservable prior to accepting a job. 
+
 
 
       - title: Worker protection and screening
