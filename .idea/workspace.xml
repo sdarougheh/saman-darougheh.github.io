@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b3093189-b4fc-41dc-9ef9-0c52b5ad8bde" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/workingpapers.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/workingpapers.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/workinprogress.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/workinprogress.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_vendor/bundle/ruby/3.0.0/bundler/gems/jekyll-pdf-4faa62d421f7/jekyll-pdf.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/_vendor/bundle/ruby/3.0.0/bundler/gems/jekyll-pdf-4faa62d421f7/jekyll-pdf.gemspec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_vendor/bundle/ruby/3.2.0/bundler/gems/jekyll-pdf-4faa62d421f7/jekyll-pdf.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/_vendor/bundle/ruby/3.2.0/bundler/gems/jekyll-pdf-4faa62d421f7/jekyll-pdf.gemspec" afterDir="false" />
@@ -208,7 +209,8 @@
       <workItem from="1752929674927" duration="599000" />
       <workItem from="1753799302954" duration="601000" />
       <workItem from="1758009925905" duration="1983000" />
-      <workItem from="1758264621533" duration="264000" />
+      <workItem from="1758264621533" duration="901000" />
+      <workItem from="1758786857458" duration="41000" />
     </task>
     <servers />
   </component>

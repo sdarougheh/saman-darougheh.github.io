@@ -59,7 +59,13 @@
         summary: |
             The pass-through of value-added taxes depends on market concentration. European countries differ significantly in their average market concentration, which explains 16% of the cross-country differences in VAT pass-through.
 
-
+      - title: "Workplace Amenities and the Gender Wage Gap: Evidence from Denmark"
+        authors: <a href="https://sites.google.com/view/alexanderdietrich">Alexander Dietrich</a>, <a href="https://sites.google.com/view/jonna-olsson/">Jonna Olsson</a>
+        summary: |
+          We use a rich set of individual-level amenities to show that gender-differences in amenity selection (even within narrowly defined occupations) affect the gender-wage gap.
+        links:
+          - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/amenities/gender_wage_amenity.pdf
+            desc: draft
 
       - title: "Wedged Between Theory and Practice: Addressing Two Implementation Challenges in Business Cycle Accounting"
         authors: <a href="https://pedrobrinca.pt/">Pedro Brinca</a> and <a href="https://francescaloria.wixsite.com/francescaloria">Francesca Loria</a>
