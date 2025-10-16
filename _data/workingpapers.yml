@@ -79,7 +79,7 @@
           - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/amenities/gender_wage_amenity.pdf
             desc: draft
 
-      - title: "Wedged Between Theory and Practice: Addressing Two Implementation Challenges in Business Cycle Accounting"
+      - title: "Wedged Between Theory and Practice: Log-Linearization and Deflation Biases in Business Cycle Accounting"
         authors: <a href="https://pedrobrinca.pt/">Pedro Brinca</a> and <a href="https://francescaloria.wixsite.com/francescaloria">Francesca Loria</a>
 
         links:
