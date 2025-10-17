@@ -16,12 +16,11 @@
           Job-to-job transitions are (wage) inflationary and decrease vacancy posting, thereby challenging the traditional view on the relationship between inflation and unemployment. The model explains the effects of the 2012 Danish reform on employment transitions and wage growth.
 
       - title: "Getting Real About Wages: A Nonhomothetic Wage Deflator"
+        conference: ES Winter Meetings 2025
         authors: <a href="https://phhoc.github.io/">Philipp Hochmuth</a>, <a href="https://www.marciasilvapereira.com/">Márcia Silva Pereira</a>, <a href="https://www.markuspettersson.net/">Markus Pettersson</a>
         links:
           - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/real_wages/draft.pdf
             desc: draft
-
-        conference:
         summary: |
           Conventional real wages—nominal wages divided by a consumption deflator—are biased from a welfare perspective when households value leisure and exhibit nonhomothetic consumption behavior. We derive a true wage deflator and show that standard measures underestimate real wage growth and welfare growth between 1984 and 2019. Our deflator leads to similar conclusions as the conventional CPI deflator when studying the evolution of wages during the post-Covid inflation surge.
 
