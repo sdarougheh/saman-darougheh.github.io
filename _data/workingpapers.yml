@@ -2,6 +2,19 @@
     title: Working papers
 
     papers:
+
+      - title: "Why are marginal workers unemployed: low productivity or high outside options? (conditionally accepted, Labour Economics)"
+        links:
+          - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/marginal/draft_marginal_workers.pdf
+            desc: draft
+        images:
+          - link: abg.png
+            caption: Marginal workers are a small share of the Danish labor force. Yet, due to their large average unemployment rate, they make up a large share of total unemployment.
+        conference: 5th Dale T. Mortensen Conference, SED 2024
+        summary: |
+          15% of Danes ("marginal workers") make up two thirds of unemployment. Are they less productive, or do they have better outside options (=enjoy unemployment more)? I answer this using both administrative records and a model calibration.
+      
+
       - title: "On-the-Job Search and Inflation under the Microscope"
         authors: <a href="https://sites.google.com/site/econrenatofaccini/">Renato Faccini</a>, <a href="https://sites.google.com/site/lemelosi/">Leonardo Melosi</a>, <a href="https://www.alessandrotenzinvilla.com/">Alessandro T. Villa</a>
         links:
@@ -39,16 +52,6 @@
 
 
 
-      - title: "Why are marginal workers unemployed: low productivity or high outside options? (conditionally accepted, Labour Economics)"
-        links:
-          - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/marginal/draft_marginal_workers.pdf
-            desc: draft
-        images:
-          - link: abg.png
-            caption: Marginal workers are a small share of the Danish labor force. Yet, due to their large average unemployment rate, they make up a large share of total unemployment.
-        conference: 5th Dale T. Mortensen Conference, SED 2024
-        summary: |
-            15% of Danes ("marginal workers") make up two thirds of unemployment. Are they less productive, or do they have better outside options (=enjoy unemployment more)? I answer this using both administrative records and a model calibration.
 
       - title: "Why VAT Pass-Through Varies Across Countries: The Role of Market Power"
         authors: <a href="https://www.tiagobernardino.com/">Tiago Bernardino</a>, <a href="https://pedrobrinca.pt/">Pedro Brinca</a>, and <a href="https://www.marciasilvapereira.com/">Marcia Silva-Pereira</a>
