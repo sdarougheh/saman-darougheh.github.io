@@ -65,14 +65,6 @@
         summary: |
             The pass-through of value-added taxes depends on market concentration. European countries differ significantly in their average market concentration, which explains 16% of the cross-country differences in VAT pass-through.
 
-      - title: "Danish Flexicurity and Occupational Mobility: A Comparison with the United States"
-        authors: <a href="https://sites.google.com/site/carloscarrillotudela/">Carlos Carrillo-Tudela</a> and <a href="https://sites.google.com/site/ludosresearch/">Ludo Visschers</a>
-        summary: |
-            We compare Danish occupational mobility rates -- occupation by occupation -- to that in the United States, taking care of miscoding in the latter. We find significantly lower gross and net mobility in Denmark.
-        links:
-          - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/occupation_distance/occ_mobility_dk_us.pdf
-            desc: note
-
       - title: "Workplace Amenities and the Gender Wage Gap: Evidence from Denmark"
         authors: <a href="https://sites.google.com/view/alexanderdietrich">Alexander Dietrich</a>, <a href="https://sites.google.com/view/jonna-olsson/">Jonna Olsson</a>
         summary: |

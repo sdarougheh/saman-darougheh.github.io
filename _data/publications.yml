@@ -2,6 +2,16 @@
 
     title: Publications
     papers:
+
+      - title: "Danish Flexicurity and Occupational Mobility: A Comparison with the United States"
+        authors: <a href="https://sites.google.com/site/carloscarrillotudela/">Carlos Carrillo-Tudela</a> and <a href="https://sites.google.com/site/ludosresearch/">Ludo Visschers</a>
+        summary: |
+            We compare Danish occupational mobility rates -- occupation by occupation -- to that in the United States, taking care of miscoding in the latter. We find significantly lower gross and net mobility in Denmark.
+        linkname: Economic Letters, forthcoming
+        link: https://sdaro.s3.eu-central-1.amazonaws.com/public/occupation_distance/occ_mobility_dk_us.pdf
+            
+
+
       - title: Occupation-industry mismatch in the cross-section and the aggregate
         linkname:  JPE Macro, 2024
         link: https://www.journals.uchicago.edu/doi/10.1086/731536
@@ -10,7 +20,6 @@
         images: 
           - link: tasks_none.jpg
             caption: "The construction sector is host to both specialized and broad occupations: a shock to this sector will affect these occupations differentially."
-          
 
         
         summary: |
