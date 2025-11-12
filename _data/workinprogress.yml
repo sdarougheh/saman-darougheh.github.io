@@ -20,7 +20,9 @@
         conference: PEJ 2023
         summary: |
             In the aftermath of the pandemic, many countries subsidized prices of essential goods via lower VAT, arguing that subsidizing essential goods is an effective way to support low-income households. Is it? We answer this question taking seriously both non-homothetic preferences and an imperfect pass through of VAT.
-
+        links:
+          - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/heterogeneous_sector/draft.pdf
+            desc: draft
       - title: "Better the Devil You Know: Women's Job Mobility and the Hidden Risks of Workplace Change"
         authors: <a href="https://sites.google.com/view/alexanderdietrich">Alexander Dietrich</a>
         summary: |
