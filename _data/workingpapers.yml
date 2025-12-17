@@ -3,17 +3,7 @@
 
     papers:
 
-      - title: "Why are marginal workers unemployed: low productivity or high outside options? (conditionally accepted, Labour Economics)"
-        links:
-          - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/marginal/draft_marginal_workers.pdf
-            desc: draft
-        images:
-          - link: abg.png
-            caption: Marginal workers are a small share of the Danish labor force. Yet, due to their large average unemployment rate, they make up a large share of total unemployment.
-        conference: 5th Dale T. Mortensen Conference, SED 2024
-        summary: |
-          15% of Danes ("marginal workers") make up two thirds of unemployment. Are they less productive, or do they have better outside options (=enjoy unemployment more)? I answer this using both administrative records and a model calibration.
-      
+
 
       - title: "On-the-Job Search and Inflation under the Microscope"
         authors: <a href="https://sites.google.com/site/econrenatofaccini/">Renato Faccini</a>, <a href="https://sites.google.com/site/lemelosi/">Leonardo Melosi</a>, <a href="https://www.alessandrotenzinvilla.com/">Alessandro T. Villa</a>
@@ -72,15 +62,4 @@
         links:
           - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/amenities/gender_wage_amenity.pdf
             desc: draft
-
-      - title: "Wedged Between Theory and Practice: Log-Linearization and Deflation Biases in Business Cycle Accounting"
-        authors: <a href="https://pedrobrinca.pt/">Pedro Brinca</a> and <a href="https://francescaloria.wixsite.com/francescaloria">Francesca Loria</a>
-
-        links:
-          - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/bca/business_cycle_accounting_draft.pdf
-            desc: draft
-            summary: |
-              Business cycle accounting suffers from two implementation issues that can severely bias conclusions. Log-linearization creates substantial measurement errors during large fluctuations, while variable-specific deflation violates the methodology’s theoretical foundations.
-
-
 
