@@ -4,8 +4,8 @@
     papers:
 
       - title: "Why are marginal workers unemployed: low productivity or high opportunity cost of employment?"
-        linkname: Labour Economics, forthcoming
-        link: https://sdaro.s3.eu-central-1.amazonaws.com/public/marginal/draft_marginal_workers.pdf
+        linkname: Labour Economics, 2026
+        link: https://www.sciencedirect.com/science/article/abs/pii/S092753712500171X
 
         images:
           - link: abg.png
@@ -19,8 +19,8 @@
         authors: <a href="https://sites.google.com/site/carloscarrillotudela/">Carlos Carrillo-Tudela</a> and <a href="https://sites.google.com/site/ludosresearch/">Ludo Visschers</a>
         summary: |
             We compare Danish occupational mobility rates -- occupation by occupation -- to that in the United States, taking care of miscoding in the latter. We find significantly lower gross and net mobility in Denmark.
-        linkname: Economic Letters, forthcoming
-        link: https://sdaro.s3.eu-central-1.amazonaws.com/public/occupation_distance/occ_mobility_dk_us.pdf
+        linkname: Economic Letters, 2026
+        link: https://www.sciencedirect.com/science/article/pii/S0165176525005804
             
 
 
