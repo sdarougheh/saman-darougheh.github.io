@@ -6,13 +6,17 @@
 
     papers:
 
-      - title: "Amenities within industries and occupations"
-        authors: <a href="https://sites.google.com/view/alexanderdietrich">Alexander Dietrich</a>, <a href="https://sites.google.com/view/jonna-olsson/">Jonna Olsson</a>
+      - title: "Workplace Amenities and the Gender Wage Gap: Evidence from Denmark"
+        authors: <a href="https://alexbell.net/">Alex Bell</a>, <a href="https://sites.google.com/view/alexanderdietrich">Alexander Dietrich</a>, <a href="https://sites.google.com/view/jonna-olsson/">Jonna Olsson</a>
         summary: |
-          We discuss how to extract amenities using a standardized work-environment survey and demonstrate cross-sectoral difference in amenity exposure.
-        links:
-          - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/amenities/amenities_descriptive.pdf
-            desc: note
+          We use a rich set of individual-level amenities to show that gender-differences in amenity selection (even within narrowly defined occupations) affect the gender-wage gap.
+
+      - title: "Prompting Change: Firm-Level AI Adoption and Worker-Level Outcomes in Linked Administrative Data"
+        authors: <a href="https://sites.google.com/view/simone-maria-bonin/home-page?pli=1">Simone Bonin</a>, Andreas Kuchler
+        summary: |
+          We use a survey on AI adoption together with linked administrative data to study AI adoption in firms and their effects on the labor market.
+
+
 
       - title: "Non-homothetic preferences and relative price shocks"
         authors: <a href="https://www.tiagobernardino.com/">Tiago Bernardino</a>, <a href="https://pedrobrinca.pt/">Pedro Brinca</a>, and <a href="https://www.marciasilvapereira.com/">Marcia Silva-Pereira</a>
