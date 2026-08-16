@@ -24,6 +24,7 @@
         links:
           - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/real_wages/draft.pdf
             desc: draft
+          - desc: R&amp;R (The Review of Economics and Statistics)
         summary: |
           Conventional real wages—nominal wages divided by a consumption deflator—are biased from a welfare perspective when households value leisure and exhibit nonhomothetic consumption behavior. We derive a true wage deflator and show that standard measures underestimate real wage growth and welfare growth between 1984 and 2019. Our deflator leads to similar conclusions as the conventional CPI deflator when studying the evolution of wages during the post-Covid inflation surge.
 

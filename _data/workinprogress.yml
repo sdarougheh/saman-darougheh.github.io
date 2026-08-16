@@ -9,6 +9,9 @@
       - title: "Workplace Amenities and the Gender Wage Gap: Evidence from Denmark"
         authors: <a href="https://alexbell.net/">Alex Bell</a>, <a href="https://sites.google.com/view/alexanderdietrich">Alexander Dietrich</a>, <a href="https://sites.google.com/view/jonna-olsson/">Jonna Olsson</a>
         conference: 18th Workshop on Labour Economics, Trier 2026, EEA 2026, LERA@ASSA 2027
+        links:
+          - url: https://sdaro.s3.eu-central-1.amazonaws.com/public/amenities/gender_wage_amenity.pdf
+            desc: draft
         summary: |
           We use a rich set of individual-level amenities to show that gender-differences in amenity selection (even within narrowly defined occupations) affect the gender-wage gap.
 
