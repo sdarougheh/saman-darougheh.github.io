@@ -14,7 +14,7 @@
         images:
           - link: ai_adoption_size.png
             caption: "Event-study coefficients of log FTE employment around AI adoption, estimated separately for 2023 adopters with fewer than 100 FTEs and with 100 or more FTEs at the pre-period base. Employment of small and large adopters is indistinguishable from pre-trend before 2023; thereafter small adopters fall steadily below trend, reaching about -15 log points by late 2025, while large adopters continue along trend. Shaded areas are 95% confidence bands."
-        conference: CCBS Conference 2026, EPRN Conference 2026, Deutsche Bundesbank 2026, IAB-FU-RWI Workshop on Labor Markets and Financial Markets 2026
+        conference: CCBS Conference 2026, EPRN Conference 2026, Deutsche Bundesbank 2026, IAB-FU-RWI Workshop on Labor Markets and Financial Markets 2026, Rockwool Foundation 2026
         summary: |
           How do firms adjust their employment after adopting artificial intelligence (AI)? Using a unique dataset of Danish firm-level AI adoption data matched to monthly employer-employee records, we find that firms that adopted AI in 2023 reduced employment growth by 11 per cent relative to non-adopters by late 2025. Effects are concentrated in smaller firms and reflect lower recruitment, particularly in AI-exposed occupations. Economy-wide employment is so far relatively unaffected.
 
