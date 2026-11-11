@@ -205,8 +205,9 @@
   line-height: 80%;
   }
   .publication-conference {
+       display: inline-block;
        font-size: x-small;
-         line-height: 80%;
+       line-height: 1.4;
   }
   .publication-summary {
       font-size: small;
